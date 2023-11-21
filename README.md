@@ -13,4 +13,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 Files were download from the [Citi Bike](https://s3.amazonaws.com/tripdata/index.html)
 
 
-(https://public.tableau.com/app/profile/wipawadee.naiyakhun/viz/Tableauchallenge_17005959975600/Story1?publish=yes)
+Finished tableau worksheet in [Tableau](https://public.tableau.com/app/profile/wipawadee.naiyakhun/viz/Tableauchallenge_17005959975600/Story1?publish=yes)
