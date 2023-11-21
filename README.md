@@ -10,7 +10,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers
 
-Files were download from the Citi Bike [Link](https://s3.amazonaws.com/tripdata/index.html)
+Files were download from the [Citi Bike](https://s3.amazonaws.com/tripdata/index.html)
 
 
 (https://public.tableau.com/app/profile/wipawadee.naiyakhun/viz/Tableauchallenge_17005959975600/Story1?publish=yes)
