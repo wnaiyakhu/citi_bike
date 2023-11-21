@@ -161,6 +161,8 @@ cython_debug/
 
 # Ignore data_citibike.csv
 data_citibike.csv/
+
 # Ignore all CSV files
-*.csv
+*.csv/
+
 
